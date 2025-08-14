@@ -1,1 +1,2 @@
-# NumberPlaterecognition
+# NumberPlateRecognition
+Simple Number Plate Recognition
